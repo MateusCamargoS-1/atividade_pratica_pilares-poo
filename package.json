@@ -1,0 +1,18 @@
+{
+  "name": "atividade_pratica_pilares-poo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ex1": "npx tsc && node ./dist/ingressos.js",
+    "ex2": "npx tsc && node ./dist/imovel.js",
+    "ex3": "npx tsc && node ./dist/animal.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.4.5"
+  }
+}
